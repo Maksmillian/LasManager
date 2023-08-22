@@ -37,7 +37,7 @@ namespace Шаблон_программы_Димы
         // Лист параметров петрофизики наследованный от класса 
         public static List<ListItemPet> PetParams = new List<ListItemPet>();
 
-        public string connStr = "Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=GIS;Data Source=IPGG-SQL";
+        public string connStr = "Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=...;Data Source=...";
         public string commStr = "select регион from Регионы";
 
 
@@ -703,8 +703,8 @@ namespace Шаблон_программы_Димы
         // Занесение в базу выбранного каротажа 
         private void button3_Click(object sender, EventArgs e) 
         {
-            //Строка подключения к тестовой БД,
-            string testConnStr = "Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=TestDB2;Data Source=IPGG-SQL";
+            //Строка подключения к тестовой БД, потом сдлеать к основе
+            string testConnStr = "Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=...;Data Source=...";
             
 
             // string asd = "";
