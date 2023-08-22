@@ -1,0 +1,17 @@
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\bin\Debug\Шаблон программы Димы.exe
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\bin\Debug\Шаблон программы Димы.pdb
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\obj\Debug\Шаблон программы Димы.csprojAssemblyReference.cache
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\obj\Debug\Шаблон_программы_Димы.Form1.resources
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\obj\Debug\Шаблон_программы_Димы.Properties.Resources.resources
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\obj\Debug\Шаблон программы Димы.csproj.GenerateResource.cache
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\obj\Debug\Шаблон программы Димы.csproj.CoreCompileInputs.cache
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\obj\Debug\Шаблон программы Димы.exe
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\obj\Debug\Шаблон программы Димы.pdb
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\obj\Debug\Шаблон_программы_Димы.Form2.resources
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\bin\Debug\ExcelDataReader.dll
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\bin\Debug\ExcelDataReader.pdb
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\bin\Debug\ExcelDataReader.xml
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\obj\Debug\Шаблон программы Димы.csproj.CopyComplete
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\ilichevma\source\repos\Шаблон программы Димы\Шаблон программы Димы\bin\Debug\stdole.dll
