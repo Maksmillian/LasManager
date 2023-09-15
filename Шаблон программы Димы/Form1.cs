@@ -1203,7 +1203,7 @@ namespace Шаблон_программы_Димы
 
         private void button7_Click(object sender, EventArgs e)
         {
-           string connStr1 = "Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=ModelingBasins;Data Source=IPGG-SQL";
+           string connStr1 = "Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=...;Data Source=...";
 
             using (OleDbConnection dbconn = new OleDbConnection(connStr1))
             {
